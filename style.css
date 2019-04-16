@@ -1,0 +1,19 @@
+body{
+	letter-spacing: 1px;
+}
+.resume{
+	border:1px solid #428bca;
+}
+.left-colum{
+	background-color: #1b3359;
+	color: white;
+	height: 1250px;
+}
+.left-colum a{
+	color:white;
+}
+.info h4{
+	background-color:#428bca;
+	color: white;
+	padding: 5px;
+}
